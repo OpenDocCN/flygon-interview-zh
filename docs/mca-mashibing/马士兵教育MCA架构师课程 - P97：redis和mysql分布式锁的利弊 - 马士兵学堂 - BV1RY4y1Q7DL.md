@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P97：redis和mysql分布式锁的利弊 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P97：redis和mysql分布式锁的利弊 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/789c1f995af2b6ea5b04ffa6fc9de0ff_0.png)
 

@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P99：redis锁和zookeeper有什么区别 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P99：redis锁和zookeeper有什么区别 - 马士兵学堂 - BV1RY4y1Q7DL
 
 redis锁和组keeper有什么区别，来想听的666告诉我别刷屏啊，rise和组key有什么区别，想听的666，想听就讲呗，来加个钟啊，喜欢加装吧，首先我们选择redis去做一个分布式锁。
 

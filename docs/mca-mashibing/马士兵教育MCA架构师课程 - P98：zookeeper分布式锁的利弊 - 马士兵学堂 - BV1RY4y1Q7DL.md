@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P98：zookeeper分布式锁的利弊 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P98：zookeeper分布式锁的利弊 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/7f4f3801139399c67f828e91cd8ef277_0.png)
 
