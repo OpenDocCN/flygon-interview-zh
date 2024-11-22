@@ -1,4 +1,4 @@
-# 舍不得花27980买马士兵教育的MCA架构师课程？免费开源马士兵教育VIP课程 - P41：【多线程与高并发】Volatile保证线程可见性 - 马士兵北京中心 - BV1VP411i7E4
+# 系列 4：P41：【多线程与高并发】Volatile保证线程可见性 - 马士兵北京中心 - BV1VP411i7E4
 
 dmon就行了。现场有一个方法叫set demon设成 true，自己去查thread类里面的一个方法。okK我们呃唉。下面我们来看这个volattile的概念啊，voltile到底是什么意思？呃。
 

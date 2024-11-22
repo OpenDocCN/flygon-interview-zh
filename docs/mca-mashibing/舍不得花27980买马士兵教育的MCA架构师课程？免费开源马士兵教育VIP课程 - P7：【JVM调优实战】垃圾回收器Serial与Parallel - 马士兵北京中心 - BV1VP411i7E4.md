@@ -1,4 +1,4 @@
-# 舍不得花27980买马士兵教育的MCA架构师课程？免费开源马士兵教育VIP课程 - P7：【JVM调优实战】垃圾回收器Serial与Parallel - 马士兵北京中心 - BV1VP411i7E4
+# 系列 4：P7：【JVM调优实战】垃圾回收器Serial与Parallel - 马士兵北京中心 - BV1VP411i7E4
 
 最开始最简单的垃圾回收算法呢叫做cereal，就是这种cereal。当然，cal有两个，一个叫cal，一个叫ceal old。有同学会说了，老师它为什么分成俩，原因是。
 

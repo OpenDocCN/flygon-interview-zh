@@ -1,4 +1,4 @@
-# 马士兵教育MCA4.0架构师课程 - P97：97、redis中value类型问题解决 - 马士兵学堂 - BV1E34y1w773
+# 系列 5：P97：97、redis中value类型问题解决 - 马士兵学堂 - BV1E34y1w773
 
 ![](img/0944f74ba378ae565afad4a6be9c3069_0.png)
 

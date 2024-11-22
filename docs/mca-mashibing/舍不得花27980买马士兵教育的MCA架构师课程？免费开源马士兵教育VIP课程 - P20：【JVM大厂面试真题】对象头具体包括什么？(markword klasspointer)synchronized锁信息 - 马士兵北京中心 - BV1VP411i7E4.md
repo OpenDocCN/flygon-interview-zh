@@ -1,4 +1,4 @@
-# 舍不得花27980买马士兵教育的MCA架构师课程？免费开源马士兵教育VIP课程 - P20：【JVM大厂面试真题】对象头具体包括什么？(markword klasspointer)synchronized锁信息 - 马士兵北京中心 - BV1VP411i7E4
+# 系列 4：P20：【JVM大厂面试真题】对象头具体包括什么？(markword klasspointer)synchronized锁信息 - 马士兵北京中心 - BV1VP411i7E4
 
 先讲脉络，总而言之，这玩意儿它是一个死东西。这玩意儿呢如果你是64位的机器，这个mark word就是64位。如果你是1个32位的。咱们的呃GDK，那么这里就是32位啊，这是一般的那个见对象的时候啊。
 

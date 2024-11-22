@@ -1,4 +1,4 @@
-# 马士兵教育MCA4.0架构师课程 - P24：24、常见的Atomic CAS锁 - 马士兵学堂 - BV1E34y1w773
+# 系列 5：P24：24、常见的Atomic CAS锁 - 马士兵学堂 - BV1E34y1w773
 
 呃先讲一点比较简单的，像这种atomic，听我说啊，atomic这个东西叫做原子更新，我先讲点入入入门性的东西啊，就原子更新是个什么概念嗯，atomic atomic integer吧。
 

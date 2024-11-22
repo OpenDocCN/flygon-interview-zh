@@ -1,4 +1,4 @@
-# 马士兵教育MCA4.0架构师课程 - P80：80、MySQL的redolog、undolog、binlog分别有什么作用？ - 马士兵学堂 - BV1E34y1w773
+# 系列 5：P80：80、MySQL的redolog、undolog、binlog分别有什么作用？ - 马士兵学堂 - BV1E34y1w773
 
 ![](img/a2a69da68c1722adf569ee9dc2fabb08_0.png)
 

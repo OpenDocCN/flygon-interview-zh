@@ -1,4 +1,4 @@
-# 马士兵教育MCA4.0架构师课程 - P60：60、SpringBoot基础回顾 - 马士兵学堂 - BV1E34y1w773
+# 系列 5：P60：60、SpringBoot基础回顾 - 马士兵学堂 - BV1E34y1w773
 
 ![](img/8e4bcff154b61d130311a2c81ac90181_0.png)
 

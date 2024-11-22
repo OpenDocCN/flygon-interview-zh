@@ -1,4 +1,4 @@
-# 马士兵教育MCA4.0架构师课程 - P33：33、BeanFactory和FactoryBean的区别 - 马士兵学堂 - BV1E34y1w773
+# 系列 5：P33：33、BeanFactory和FactoryBean的区别 - 马士兵学堂 - BV1E34y1w773
 
 ![](img/57fc5cf0a56db1f98a5185cceff64632_0.png)
 

@@ -1,4 +1,4 @@
-# 马士兵教育MCA4.0架构师课程 - P18：18、synchronized本质是一把悲观锁 - 马士兵学堂 - BV1E34y1w773
+# 系列 5：P18：18、synchronized本质是一把悲观锁 - 马士兵学堂 - BV1E34y1w773
 
 ![](img/37cae59373b573c05b3e1186a5dab85a_0.png)
 

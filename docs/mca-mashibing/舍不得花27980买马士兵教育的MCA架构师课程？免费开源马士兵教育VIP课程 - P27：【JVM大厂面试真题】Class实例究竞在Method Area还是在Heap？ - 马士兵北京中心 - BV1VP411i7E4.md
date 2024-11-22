@@ -1,4 +1,4 @@
-# 舍不得花27980买马士兵教育的MCA架构师课程？免费开源马士兵教育VIP课程 - P27：【JVM大厂面试真题】Class实例究竞在Method Area还是在Heap？ - 马士兵北京中心 - BV1VP411i7E4
+# 系列 4：P27：【JVM大厂面试真题】Class实例究竞在Method Area还是在Heap？ - 马士兵北京中心 - BV1VP411i7E4
 
 你看。这个问题就是第九个问题，叫class的这个实力究竟是在mesage area，还是在hiap里面？对，只要的实力方法都是序方法。没错，所以它的class里面全是序方法。啊，这个问题这个问题。
 
