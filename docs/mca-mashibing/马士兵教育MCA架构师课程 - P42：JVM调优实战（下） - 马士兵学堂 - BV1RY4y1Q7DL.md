@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P42：JVM调优实战（下） - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P42：JVM调优实战（下） - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/f3a5e17741a61e841eeefa7f6362ede5_0.png)
 

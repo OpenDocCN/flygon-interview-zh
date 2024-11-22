@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P121：为什么要学习RocketMQ源码？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P121：为什么要学习RocketMQ源码？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/52dae7d198cc24b142e396f3a3505a17_0.png)
 

@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P70：Spring源码基础讲解 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P70：Spring源码基础讲解 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/f30544b3405fbde7ea295e662ca1abd6_0.png)
 

@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P21：CPU乱序执行 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P21：CPU乱序执行 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/0de54d73fcaad07acf8b491f558a04f4_0.png)
 

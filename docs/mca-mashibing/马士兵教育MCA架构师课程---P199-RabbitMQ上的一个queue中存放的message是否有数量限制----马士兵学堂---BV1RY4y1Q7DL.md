@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P199：RabbitMQ上的一个queue中存放的message是否有数量限制？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P199：RabbitMQ上的一个queue中存放的message是否有数量限制？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 我们再来看一下这一道rapQ的面试题，它来自于腾讯啊，对应的薪资是25K岗位高级开发rappingQ当中的Q，它存放的message是否有数量的限制，这个限制是多少呢？首先大家应该要知道。
 

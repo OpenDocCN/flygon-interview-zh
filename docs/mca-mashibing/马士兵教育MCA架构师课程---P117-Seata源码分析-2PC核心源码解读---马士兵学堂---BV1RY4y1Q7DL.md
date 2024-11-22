@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P117：Seata源码分析-2PC核心源码解读 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P117：Seata源码分析-2PC核心源码解读 - 马士兵学堂 - BV1RY4y1Q7DL
 
 OK各位，那么咱们这节课来接着学习s塔的源码相关内容。呃，上节课的话我们讲到了说这个global transitional intercap这个全局事务拦截器，说一旦执行这个拦截器啊。
 

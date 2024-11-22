@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P169：bootstrap.yml的意义 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P169：bootstrap.yml的意义 - 马士兵学堂 - BV1RY4y1Q7DL
 
 是来自于阿里巴巴的一道7月份面试题啊，说是点mail它的意义是什么？因为我们都知道啊，在咱们的ring boot当中其实是有默认的配置文件的。
 

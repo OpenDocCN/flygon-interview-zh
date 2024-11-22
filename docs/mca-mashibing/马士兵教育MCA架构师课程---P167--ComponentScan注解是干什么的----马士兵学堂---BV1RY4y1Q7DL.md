@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P167：@ComponentScan注解是干什么的？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P167：@ComponentScan注解是干什么的？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 它是来自于美团的一道面试题啊，然后呢是秋招的时候聊到的，然后说是什么呢？说是componment scanner这样的一个注解它到底是干嘛的这道面试题主要考察的是你对于spring源码的一个理解啊。
 

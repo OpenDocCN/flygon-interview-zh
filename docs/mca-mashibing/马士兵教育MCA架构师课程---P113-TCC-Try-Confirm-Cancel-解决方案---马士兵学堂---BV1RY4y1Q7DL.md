@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P113：TCC（Try Confirm Cancel）解决方案 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P113：TCC（Try Confirm Cancel）解决方案 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/3f1b3a1d03cf9fc6ecd50d2938f9c9d0_0.png)
 

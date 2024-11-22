@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P182：SpringBoot的优点 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P182：SpringBoot的优点 - 马士兵学堂 - BV1RY4y1Q7DL
 
 这道题呢是来自于阿里巴巴的一套8月份的面试题，说是spring boot有哪些优点呢？这道题主要考察的是什么呢？这道题主要考察的是对于spring boot的一个基础的理解啊。
 

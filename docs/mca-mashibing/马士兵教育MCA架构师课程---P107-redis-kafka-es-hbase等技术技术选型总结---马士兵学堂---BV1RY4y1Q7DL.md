@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P107：redis、kafka、es、hbase等技术技术选型总结 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P107：redis、kafka、es、hbase等技术技术选型总结 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/59e7535e255bec54a11ae034108675ac_0.png)
 

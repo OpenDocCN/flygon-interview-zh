@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P74：BeanFactory和FactoryBean的区别 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P74：BeanFactory和FactoryBean的区别 - 马士兵学堂 - BV1RY4y1Q7DL
 
 不给了好了，来回到我们这节课上面，第一个变得生命周期能说清楚了吧，对不对，第二个重要的扩展点，第一个刚刚说的，你在执行post process里面post啊啊叫叫什么来着。
 

@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P171：RequestMapping 和 GetMapping 的不同之处在哪里？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P171：RequestMapping 和 GetMapping 的不同之处在哪里？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 这道题呢是来自于阿里的一套6月份的面试题啊，说是request mapping和get mapping它的不同之处在哪里呢？这道题主要考察的是什么呢？是考察的在就是说你对于注解的一个了解啊。
 

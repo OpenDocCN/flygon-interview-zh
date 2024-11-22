@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P168：@EnableAutoConfiguration注解是干什么的？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P168：@EnableAutoConfiguration注解是干什么的？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 题呢是来自于美团的一道就是春招的题目啊，说是 to configuration解是干什么的。呃这道题目主要考察的是你对于 boot源码的一个理解啊。那么这道题呢会在面试终级开发工程师的时候会面到。
 

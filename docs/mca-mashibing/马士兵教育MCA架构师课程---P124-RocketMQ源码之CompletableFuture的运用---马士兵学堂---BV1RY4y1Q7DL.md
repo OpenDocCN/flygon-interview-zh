@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P124：RocketMQ源码之CompletableFuture的运用 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P124：RocketMQ源码之CompletableFuture的运用 - 马士兵学堂 - BV1RY4y1Q7DL
 
 这就是最核心的部分，就是name server里面所有的数据都是存在这个地方，并且它都是存在哈西 map里面。😡，那么为什么存耗新卖？为什么不写磁盘呢？😡，对不对？
 

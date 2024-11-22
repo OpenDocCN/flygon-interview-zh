@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P1：什么是垃圾？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P1：什么是垃圾？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 嗯首先我们先来聊什么叫gc啊，gc，好g c这个是这个事先理解啊，g c的全称叫什么呢，它叫做garbage collector，或者叫garbage collecting，看你用在什么语境上。
 

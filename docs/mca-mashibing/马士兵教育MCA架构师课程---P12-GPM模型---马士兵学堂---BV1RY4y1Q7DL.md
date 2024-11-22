@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P12：GPM模型 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P12：GPM模型 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/5b3dc4e83b271fdd18eb64edafee59e2_0.png)
 

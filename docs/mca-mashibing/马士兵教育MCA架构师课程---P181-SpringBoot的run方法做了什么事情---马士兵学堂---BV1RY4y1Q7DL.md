@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P181：SpringBoot的run方法做了什么事情 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P181：SpringBoot的run方法做了什么事情 - 马士兵学堂 - BV1RY4y1Q7DL
 
 它是来自于阿里的一道春招的面试题啊，说是什么呢？说是spring boot的run方法做了什么样的一件事情。而这道面试题主要考察的是你对于spring boot源码的一个理解啊。
 

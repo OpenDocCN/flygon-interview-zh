@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P89：MySQL的redolog、undolog、binlog分别有什么作用？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P89：MySQL的redolog、undolog、binlog分别有什么作用？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 刚说的东西，假设两个日志啊，我明确了都要记住，我如果先写redo log进行，然后再写blog对吧，建议大家写写他这样两个方式，如果再这样写的话，这里面会有一个问题，同学们听好了，什么问题。
 

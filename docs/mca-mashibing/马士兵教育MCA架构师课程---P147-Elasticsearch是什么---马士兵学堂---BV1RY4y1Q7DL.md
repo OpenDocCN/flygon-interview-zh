@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P147：Elasticsearch是什么 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P147：Elasticsearch是什么 - 马士兵学堂 - BV1RY4y1Q7DL
 
 好，我们来看下面一个问题，ellect search是什么啊，相同的问法呢，还包括你对ellect search的理解是什么，或者介绍一下ellecticse。那么这道问题呢来自国美。
 

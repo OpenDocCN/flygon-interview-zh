@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P146：Spring框架中使用的设计模式有哪些 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P146：Spring框架中使用的设计模式有哪些 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/99c074510f5ef1ad2fcef733a6fb3fac_0.png)
 

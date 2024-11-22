@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P145：Mybatis框架中使用的设计模式有哪些 - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P145：Mybatis框架中使用的设计模式有哪些 - 马士兵学堂 - BV1RY4y1Q7DL
 
 ![](img/79a780cf7dce3d2e4c2e307472256d90_0.png)
 

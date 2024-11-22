@@ -1,4 +1,4 @@
-# 马士兵教育MCA架构师课程 - P178：Spring Boot、Spring MVC 和 Spring 有什么区别？ - 马士兵学堂 - BV1RY4y1Q7DL
+# 系列 6：P178：Spring Boot、Spring MVC 和 Spring 有什么区别？ - 马士兵学堂 - BV1RY4y1Q7DL
 
 这是一道来自于阿里的一个9月份的面试题啊。然后呢这道面试题嗯题目是spring bootring mVC跟spring有什么区别？
 
