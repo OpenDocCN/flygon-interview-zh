@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P36：【多线程与高并发】CountDownLatch - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P36：【多线程与高并发】CountDownLatch - 马士兵_马小雨 - BV1zh411H79h
 
 我们来聊这个count down latch，count down，lash呢count down倒数lash是门栓的意思，而倒数的一个门栓啊，54321数到了，我的门窗就开了这么一个概念。
 

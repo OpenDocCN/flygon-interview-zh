@@ -1,4 +1,4 @@
-# 白嫖到马士兵教育价值23980的MCA架构师课程一次让你学够！ - P38：SPRING源码：06Spring的BeanFactory和FactoryBean的区别？ - Java视频学堂 - BV1Hy4y1t7Bo
+# 系列 2：P38：SPRING源码：06Spring的BeanFactory和FactoryBean的区别？ - Java视频学堂 - BV1Hy4y1t7Bo
 
 生命周期吗，有没有同学被问到这个问题，被问到我同学来扣个六，有人被问到过吗，有没有你们怎么回答的，我相信大部分同学在回答这个问题的时候，都是提前准备好了一个面试的文档，然后呢我背了一下，面试官一问。
 

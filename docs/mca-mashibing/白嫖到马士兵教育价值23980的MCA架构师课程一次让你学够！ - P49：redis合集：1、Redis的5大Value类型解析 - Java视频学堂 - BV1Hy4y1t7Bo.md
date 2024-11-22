@@ -1,4 +1,4 @@
-# 白嫖到马士兵教育价值23980的MCA架构师课程一次让你学够！ - P49：redis合集：1、Redis的5大Value类型解析 - Java视频学堂 - BV1Hy4y1t7Bo
+# 系列 2：P49：redis合集：1、Redis的5大Value类型解析 - Java视频学堂 - BV1Hy4y1t7Bo
 
 你就会就是如果你穿的东西特别大。
 

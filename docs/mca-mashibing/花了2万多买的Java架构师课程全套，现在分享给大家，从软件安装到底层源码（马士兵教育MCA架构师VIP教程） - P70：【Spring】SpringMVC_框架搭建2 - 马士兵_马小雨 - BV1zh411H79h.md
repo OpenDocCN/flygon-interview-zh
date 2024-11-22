@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P70：【Spring】SpringMVC_框架搭建2 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P70：【Spring】SpringMVC_框架搭建2 - 马士兵_马小雨 - BV1zh411H79h
 
 好接下来呢我们定义我们这个ctrl层的一个代码哈，呃那么在spring mvc下呢，我们就不需要自己去这个呃这个继承这个htp server light了，但是我们需要在这块加上这个东西。
 

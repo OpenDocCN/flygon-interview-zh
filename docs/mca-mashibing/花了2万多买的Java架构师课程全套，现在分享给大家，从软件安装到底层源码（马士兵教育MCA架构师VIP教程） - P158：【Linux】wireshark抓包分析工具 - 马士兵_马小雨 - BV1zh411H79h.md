@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P158：【Linux】wireshark抓包分析工具 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P158：【Linux】wireshark抓包分析工具 - 马士兵_马小雨 - BV1zh411H79h
 
 好，wind sha啊winsh。那。对你就一直下一步啊一直下一步。Good。啊。默认C。啊，他抓包的时候呢，他会用一些工具啊，他有1个NP cap啊。其他的都默认。Yeah。Okay。Okay。
 

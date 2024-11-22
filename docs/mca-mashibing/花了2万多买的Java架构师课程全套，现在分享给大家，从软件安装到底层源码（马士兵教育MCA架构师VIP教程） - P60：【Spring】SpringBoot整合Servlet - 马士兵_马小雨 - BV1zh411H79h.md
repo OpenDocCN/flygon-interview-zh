@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P60：【Spring】SpringBoot整合Servlet - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P60：【Spring】SpringBoot整合Servlet - 马士兵_马小雨 - BV1zh411H79h
 
 ![](img/10d5b41c68fa0355b689b6ae82a88d63_0.png)
 

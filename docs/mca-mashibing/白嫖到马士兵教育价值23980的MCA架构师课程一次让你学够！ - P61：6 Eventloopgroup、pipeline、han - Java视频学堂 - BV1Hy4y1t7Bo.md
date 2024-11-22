@@ -1,4 +1,4 @@
-# 白嫖到马士兵教育价值23980的MCA架构师课程一次让你学够！ - P61：6 Eventloopgroup、pipeline、han - Java视频学堂 - BV1Hy4y1t7Bo
+# 系列 2：P61：6 Eventloopgroup、pipeline、han - Java视频学堂 - BV1Hy4y1t7Bo
 
 你先把这个epo这个学完整学明白了。关键这还不是这个还没有真正把群里面，我只是理论给你讲，到底他怎么去运作的，和大JDK的API怎么对英文的才那个那个才是重要的。
 

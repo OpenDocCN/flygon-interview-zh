@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P114：【JVM】第二天课前复习 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P114：【JVM】第二天课前复习 - 马士兵_马小雨 - BV1zh411H79h
 
 OKOK好，咱们准备开始上课啊。😊，那今天呢我们上JVM的第二第二堂课。呃，今天呢准备给大家讲。classas的 loading， linking和 initialitializing。简单说呢。
 

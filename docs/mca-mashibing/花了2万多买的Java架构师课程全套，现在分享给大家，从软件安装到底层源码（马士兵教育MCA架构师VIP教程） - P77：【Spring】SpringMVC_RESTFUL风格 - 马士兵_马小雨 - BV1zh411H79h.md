@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P77：【Spring】SpringMVC_RESTFUL风格 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P77：【Spring】SpringMVC_RESTFUL风格 - 马士兵_马小雨 - BV1zh411H79h
 
 上一节呢我们给大家分析一下这个passworable注解它的一个作用，以及rest restful风格的一个这个支持，那么我们说普通的ui l格式呢就是更重要的路径，然后后面什么点都点js p等等。
 

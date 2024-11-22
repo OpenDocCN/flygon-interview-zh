@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P66：【Spring】SpringMvc的扩展 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P66：【Spring】SpringMvc的扩展 - 马士兵_马小雨 - BV1zh411H79h
 
 ![](img/9d812f5d27c30643b68ca7a64efebe3d_0.png)
 

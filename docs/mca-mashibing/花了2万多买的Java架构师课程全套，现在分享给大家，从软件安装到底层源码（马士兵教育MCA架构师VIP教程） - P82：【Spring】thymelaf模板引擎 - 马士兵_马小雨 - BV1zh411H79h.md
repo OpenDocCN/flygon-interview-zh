@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P82：【Spring】thymelaf模板引擎 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P82：【Spring】thymelaf模板引擎 - 马士兵_马小雨 - BV1zh411H79h
 
 ![](img/b994f334aa092f5cd8f9d4fa8d844c8f_0.png)
 

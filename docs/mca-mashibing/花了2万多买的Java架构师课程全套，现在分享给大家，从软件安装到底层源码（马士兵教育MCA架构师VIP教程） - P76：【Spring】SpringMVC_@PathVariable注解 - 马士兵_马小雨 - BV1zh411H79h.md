@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P76：【Spring】SpringMVC_@PathVariable注解 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P76：【Spring】SpringMVC_@PathVariable注解 - 马士兵_马小雨 - BV1zh411H79h
 
 呃接下来呢我们给大家介绍一下这个pass variable这样的一个注解，和一个rest风格的一个支持，呃那我们先说一下这个pass的呃variable这个注解它有什么作用哈。
 

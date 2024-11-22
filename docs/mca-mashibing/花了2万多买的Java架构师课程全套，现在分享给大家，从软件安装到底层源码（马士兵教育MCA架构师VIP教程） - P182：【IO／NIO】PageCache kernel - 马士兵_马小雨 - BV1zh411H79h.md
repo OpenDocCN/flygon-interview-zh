@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P182：【IO／NIO】PageCache kernel - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P182：【IO／NIO】PageCache kernel - 马士兵_马小雨 - BV1zh411H79h
 
 书的理解。P以 catch啊，先说一个宏观的一个演示，我只是给你演示它啊具体是个啥东西，我们先见到先见到猪跑了，你再说这个猪它是黑猪还是花猪啊。K edge是液缓存，是内核 kernel。啊。
 

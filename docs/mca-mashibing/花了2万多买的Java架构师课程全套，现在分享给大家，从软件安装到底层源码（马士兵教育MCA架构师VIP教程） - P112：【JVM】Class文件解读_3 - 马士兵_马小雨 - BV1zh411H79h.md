@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P112：【JVM】Class文件解读_3 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P112：【JVM】Class文件解读_3 - 马士兵_马小雨 - BV1zh411H79h
 
 好，看这里。后面的呢是interfaces。由于我们这个class呢我们没有实现interface，所以无所谓就没有了。呃，后面是fieldels，由于我们这个class里面没有任何的属性。
 

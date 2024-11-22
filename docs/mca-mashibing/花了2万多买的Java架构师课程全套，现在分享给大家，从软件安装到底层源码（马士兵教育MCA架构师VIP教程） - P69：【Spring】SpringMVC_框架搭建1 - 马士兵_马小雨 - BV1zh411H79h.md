@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P69：【Spring】SpringMVC_框架搭建1 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P69：【Spring】SpringMVC_框架搭建1 - 马士兵_马小雨 - BV1zh411H79h
 
 我们创建了一个可以正常启动运行的一个maven web项目之后，那么接下来呢我们就要在maven web项目里面呃，这个导入我们这个mvc spring mvc的一个框架。
 

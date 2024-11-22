@@ -1,4 +1,4 @@
-# 白嫖到马士兵教育价值23980的MCA架构师课程一次让你学够！ - P52：redis合集：4、redis实现推荐系统抽奖商品详情页playlist - Java视频学堂 - BV1Hy4y1t7Bo
+# 系列 2：P52：redis合集：4、redis实现推荐系统抽奖商品详情页playlist - Java视频学堂 - BV1Hy4y1t7Bo
 
 一得一相同位置上，对不对？然后结果会就是result，然后谁参与2020年的0101的一天和2020年的0102的一天，把两个两个K里边的value的一全收纳成一个reult里。
 

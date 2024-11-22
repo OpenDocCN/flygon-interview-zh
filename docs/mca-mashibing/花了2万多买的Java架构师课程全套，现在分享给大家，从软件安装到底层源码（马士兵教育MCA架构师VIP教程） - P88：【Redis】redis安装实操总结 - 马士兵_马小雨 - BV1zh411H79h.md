@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P88：【Redis】redis安装实操总结 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P88：【Redis】redis安装实操总结 - 马士兵_马小雨 - BV1zh411H79h
 
 ![](img/f2faafdb4aba07047f6d39a1fb2a75bc_0.png)
 

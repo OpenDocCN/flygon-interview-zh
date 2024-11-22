@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P37：【多线程与高并发】CyclicBarrier - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P37：【多线程与高并发】CyclicBarrier - 马士兵_马小雨 - BV1zh411H79h
 
 那我看这里啊，我们来讲，另外一个同步工具，这个同步工具呢叫cyclic barrier，cyclic barrier呃，cycle和bl的意思，栅栏这个炸弹呢就像什么呢，就像那个发令枪一样，嗯。
 

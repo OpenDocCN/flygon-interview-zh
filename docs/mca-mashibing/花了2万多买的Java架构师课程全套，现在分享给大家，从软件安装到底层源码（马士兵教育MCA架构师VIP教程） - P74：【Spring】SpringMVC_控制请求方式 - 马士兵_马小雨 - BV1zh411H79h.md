@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P74：【Spring】SpringMVC_控制请求方式 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P74：【Spring】SpringMVC_控制请求方式 - 马士兵_马小雨 - BV1zh411H79h
 
 这一小节呢我们讲一下这个关于request map这个注解的那些细节问题。
 

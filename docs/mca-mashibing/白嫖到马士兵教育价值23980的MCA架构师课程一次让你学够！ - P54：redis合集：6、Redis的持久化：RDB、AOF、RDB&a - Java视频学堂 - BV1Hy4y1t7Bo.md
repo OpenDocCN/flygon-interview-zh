@@ -1,4 +1,4 @@
-# 白嫖到马士兵教育价值23980的MCA架构师课程一次让你学够！ - P54：redis合集：6、Redis的持久化：RDB、AOF、RDB&a - Java视频学堂 - BV1Hy4y1t7Bo
+# 系列 2：P54：redis合集：6、Redis的持久化：RDB、AOF、RDB&a - Java视频学堂 - BV1Hy4y1t7Bo
 
 讲的时候都会问那层数层高的得多高，是十层还是1万层，还是还是还是几层，哎比如1000万大一千万。
 

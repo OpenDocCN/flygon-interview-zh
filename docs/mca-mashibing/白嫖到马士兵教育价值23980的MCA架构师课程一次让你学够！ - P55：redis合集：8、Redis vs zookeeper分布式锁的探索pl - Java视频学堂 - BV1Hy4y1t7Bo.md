@@ -1,4 +1,4 @@
-# 白嫖到马士兵教育价值23980的MCA架构师课程一次让你学够！ - P55：redis合集：8、Redis vs zookeeper分布式锁的探索pl - Java视频学堂 - BV1Hy4y1t7Bo
+# 系列 2：P55：redis合集：8、Redis vs zookeeper分布式锁的探索pl - Java视频学堂 - BV1Hy4y1t7Bo
 
 如果客户端请求发给他之后，他内部有跟你曾经你设计的算法一样的一个分区算法，它会把数据稳定到散在不同的节点里面去，你为了你未来不同客户端读写，就一定能找回这些数据，也利用了不同的release存。
 

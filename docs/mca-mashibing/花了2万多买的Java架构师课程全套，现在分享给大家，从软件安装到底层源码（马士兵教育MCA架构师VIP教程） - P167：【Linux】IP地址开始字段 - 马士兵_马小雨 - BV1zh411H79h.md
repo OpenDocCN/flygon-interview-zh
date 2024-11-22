@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P167：【Linux】IP地址开始字段 - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P167：【Linux】IP地址开始字段 - 马士兵_马小雨 - BV1zh411H79h
 
 ![](img/f3fc1cb7aeea022a2a6ff0caf0d2d839_0.png)
 

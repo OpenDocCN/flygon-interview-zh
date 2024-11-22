@@ -1,4 +1,4 @@
-# 花了2万多买的Java架构师课程全套，现在分享给大家，从软件安装到底层源码（马士兵教育MCA架构师VIP教程） - P104：【Redis】redis中value类型--sorted_set - 马士兵_马小雨 - BV1zh411H79h
+# 系列 3：P104：【Redis】redis中value类型--sorted_set - 马士兵_马小雨 - BV1zh411H79h
 
 最最常用的最常用这个最基本的类型，RA当中是5个。最常用的基本的是5个类型，我们讲了4个了，一个str，然后list哈西，还有set，还有一个还有一个讲完这个类型了。
 
