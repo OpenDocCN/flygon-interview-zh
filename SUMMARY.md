@@ -1,6 +1,7 @@
 +   [前端面试手册](docs/fe-inter-hb/README.md)
 +   [马士兵程序员简历课](docs/mashibing/README.md)
 +   [马士兵 MCA 架构师课程笔记](docs/mca-mashibing/README.md)
++   [斯坦福人生设计课笔记](docs/stf-lfdsn/README.md)
 +   [系统设计面试的行家指南](docs/sys-design-inter/README.md)
 +   [技术面试手册](docs/tech-inter-hb/README.md)
 +   [方十字学习体系](docs/方十字应试/README.md)
