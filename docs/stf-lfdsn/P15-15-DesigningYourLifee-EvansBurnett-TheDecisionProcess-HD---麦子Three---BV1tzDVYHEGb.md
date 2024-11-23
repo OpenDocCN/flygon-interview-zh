@@ -1,4 +1,4 @@
-# 【公开课】斯坦福大学：人生设计课 Designing your life（21讲全）｜ 人生规划 ｜ 人生设计 - P15：15-DesigningYourLifee-EvansBurnett-TheDecisionProcess-HD - 麦子Three - BV1tzDVYHEGb
+# P15：15-DesigningYourLifee-EvansBurnett-TheDecisionProcess-HD - 麦子Three - BV1tzDVYHEGb
 
 ![](img/d38da24cf92ee456ff557e861cfe334e_0.png)
 

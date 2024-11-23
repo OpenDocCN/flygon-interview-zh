@@ -1,4 +1,4 @@
-# 【公开课】斯坦福大学：人生设计课 Designing your life（21讲全）｜ 人生规划 ｜ 人生设计 - P1：01-DesigningYourLifee-EvansBurnett-IntroductionToWorkshop-HD - 麦子Three - BV1tzDVYHEGb
+# P1：01-DesigningYourLifee-EvansBurnett-IntroductionToWorkshop-HD - 麦子Three - BV1tzDVYHEGb
 
 ![](img/e82c13d636eae439cbbb258b4f360a4f_0.png)
 

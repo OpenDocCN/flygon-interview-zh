@@ -1,4 +1,4 @@
-# 【公开课】斯坦福大学：人生设计课 Designing your life（21讲全）｜ 人生规划 ｜ 人生设计 - P7：07-DesigningYourLifee-EvansBurnett-GravityProblemsAndReframe-HD - 麦子Three - BV1tzDVYHEGb
+# P7：07-DesigningYourLifee-EvansBurnett-GravityProblemsAndReframe-HD - 麦子Three - BV1tzDVYHEGb
 
 ![](img/6030079c05290ee5bceacd528ff9b5f7_0.png)
 

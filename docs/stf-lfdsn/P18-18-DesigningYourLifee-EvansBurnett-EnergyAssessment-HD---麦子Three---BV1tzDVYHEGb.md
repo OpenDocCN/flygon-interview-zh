@@ -1,4 +1,4 @@
-# 【公开课】斯坦福大学：人生设计课 Designing your life（21讲全）｜ 人生规划 ｜ 人生设计 - P18：18-DesigningYourLifee-EvansBurnett-EnergyAssessment-HD - 麦子Three - BV1tzDVYHEGb
+# P18：18-DesigningYourLifee-EvansBurnett-EnergyAssessment-HD - 麦子Three - BV1tzDVYHEGb
 
 ![](img/75c53e29e1e8487066e6d98380ab31fc_0.png)
 

@@ -1,4 +1,4 @@
-# 【公开课】斯坦福大学：人生设计课 Designing your life（21讲全）｜ 人生规划 ｜ 人生设计 - P12：12-DesigningYourLifee-EvansBurnett-UnicornHunting-HD - 麦子Three - BV1tzDVYHEGb
+# P12：12-DesigningYourLifee-EvansBurnett-UnicornHunting-HD - 麦子Three - BV1tzDVYHEGb
 
 ![](img/31c456bd2725598bc8a372fd794f1ff3_0.png)
 
