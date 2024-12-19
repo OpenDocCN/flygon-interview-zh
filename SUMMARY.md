@@ -1,4 +1,5 @@
 +   [前端面试手册](docs/fe-inter-hb/README.md)
++   [大模型面试题](docs/llm/README.md)
 +   [马士兵程序员简历课](docs/mashibing/README.md)
 +   [马士兵 MCA 架构师课程笔记](docs/mca-mashibing/README.md)
 +   [斯坦福人生设计课笔记](docs/stf-lfdsn/README.md)
